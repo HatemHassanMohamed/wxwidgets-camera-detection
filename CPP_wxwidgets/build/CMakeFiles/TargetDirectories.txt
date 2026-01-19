@@ -1,3 +1,0 @@
-/home/hatem/CPP_wxwidgets/build/CMakeFiles/wxapp.dir
-/home/hatem/CPP_wxwidgets/build/CMakeFiles/edit_cache.dir
-/home/hatem/CPP_wxwidgets/build/CMakeFiles/rebuild_cache.dir
